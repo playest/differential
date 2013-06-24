@@ -1,0 +1,38 @@
+
+/* height fix for link styled as buttons */
+a.btn {
+    line-height: 18px;
+}
+
+#menuu {
+    padding: 1em;
+    margin: 1em;
+    border: 1px solid;
+}
+
+/* fix for text input */
+
+.row-fluid .span-margin {
+    margin-left: 2.12766% !important;
+}
+
+.row-fluid .no-span-margin {
+    margin-left: 0 !important;
+}
+
+.alone {
+    margin: 20px;
+}
+
+.sep {
+    margin-bottom: 20px;
+}
+
+.create_chan {
+    border-bottom: 1px rgb(238, 238, 238) solid;
+    padding-bottom: 20px;
+}
+
+.join_chan {
+    margin-top: 20px;
+}

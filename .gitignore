@@ -1,0 +1,20 @@
+# oo locks
+.~lock.*
+
+# misc
+*~
+
+# unison
+*.bak
+.bak/
+
+# media
+*.flv
+*.ogv
+*.mp4
+
+*.sublime-workspace
+*.sublime-workspace
+
+# specfic
+node_modules/
