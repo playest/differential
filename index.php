@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>&#8706;ifferential</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link rel="stylesheet" type="text/css" href="bootstrap.css"  media="screen" charset="utf-8" />
     <link rel="stylesheet" type="text/css" href="differential.css"  media="screen" charset="utf-8" />

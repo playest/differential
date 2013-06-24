@@ -17,6 +17,7 @@ else {
 <!DOCTYPE html>
 <html>
 <head>
+    <title><?php echo($chan); ?> - &#8706;ifferential</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <script src="differential_extras.js"></script>
     <script src="my-popcorn-complete.js"></script>
