@@ -45,6 +45,9 @@
         ?>
         </div>
     </div>
+    <div class="alone">
+        <span class="label">version 0.1</span>
+    </div>
 </div>
 </body>
 </html>

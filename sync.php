@@ -29,8 +29,6 @@ else {
 <body onunload="onLeave();" onbeforeunload="onLeave();">
 
 <script>
-    
-    
     // Main
     var myself = "user_" + ("" + Math.random()).substring(2,8);
     var chan = "<?php echo($chan); ?>";
@@ -120,7 +118,10 @@ else {
     </div>
 </div>
 
-<button class="btn-link btn-small" onclick="toggleDisplayElementByID('debug'); return false;">Debug</button>
+<div class="alone">
+    <span class="label">version 0.1</span>
+    <button class="btn-link btn-small" onclick="toggleDisplayElementByID('debug'); return false;">Debug</button>
+</div>
 
 <div id="debug" style="display:none;">
     <div>
