@@ -148,6 +148,12 @@ else {
         </form>
     </div>
 </div>
+
+<?php
+    if(file_exists("stats.php")) {
+        include("stats.php");
+    }
+?>
   
 </body>
 </html>
