@@ -19,10 +19,11 @@ else {
 <head>
     <title><?php echo($chan); ?> - &#8706;ifferential</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <script src="differential_extras.js"></script>
-    <script src="my-popcorn-complete.js"></script>
-    <script src="popsync.js"></script>
-    <script src="poplist.js"></script>
+    <script src="extras.js"></script>
+    <script src="popcorn-complete.js"></script>
+    <script src="player.js"></script>
+    <script src="syncer.js"></script>
+    <script src="playlist.js"></script>
     <link rel="stylesheet" type="text/css" href="bootstrap.css"  media="screen" charset="utf-8" />
     <link rel="stylesheet" type="text/css" href="differential.css"  media="screen" charset="utf-8" />
 </head>

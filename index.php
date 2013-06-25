@@ -21,7 +21,6 @@
             <h2>Create a channel</h2>
             <form method="get" action="sync.php">
                 <input class="span12" type="text" name="chan" placeholder="Channel's name" />
-                <!--<input type="radio" name="sync_type" value="master" /> Sync with master<br />-->
                 <label class="checkbox">
                     <input type="checkbox" name="sync_type" value="everyone" /> Sync with everyone (unstable)
                 </label>
@@ -49,5 +48,6 @@
         <span class="label">version 0.1</span>
     </div>
 </div>
+
 </body>
 </html>
