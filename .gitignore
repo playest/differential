@@ -17,4 +17,5 @@
 *.sublime-workspace
 
 # specfic
-node_modules/
+stats.php
+
