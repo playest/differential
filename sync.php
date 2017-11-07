@@ -84,6 +84,7 @@ else {
         onsubmit="player.changeSource(document.getElementById('videoURL').value); playlist.add(document.getElementById('videoURL').value); return false;">
             <select class="span12" id="theplaylist" size="4"
                 onchange="document.getElementById('videoURL').value = this.options[this.selectedIndex].value;">
+                <option ondblclick="player.changeSource(this.value);" value="media/Omoide Wa Okkusenman.ogv">Omoide Wa Okkusenman ogv</option>
                 <option ondblclick="player.changeSource(this.value);" value="http://www.youtube.com/watch?v=FzSR_TFMirs">Omoide Wa Okkusenman</option>
                 <option ondblclick="player.changeSource(this.value);" value="http://www.youtube.com/watch?v=cEJ8CzAD4TE">Love is in bloom!</option>
                 <option ondblclick="player.changeSource(this.value);" value="http://vimeo.com/56901429">http://vimeo.com/56901429</option>
